@@ -256,3 +256,5 @@ $(document).ready(function() {
   </div>`)
   })
 });
+
+module.exports = createEl;
